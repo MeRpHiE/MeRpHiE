@@ -7,6 +7,7 @@ e-mail : asiri.abayakoon@gmail.com
 LinkedIn : https://www.linkedin.com/in/asiri-abayakoon-888b601a/
 Facebook : https://www.facebook.com/asiri.abayakoon/
 Twitter : https://twitter.com/AsiriChams
+Discord : https://discord.gg/dXVyJF9s
 <!---
 MeRpHiE/MeRpHiE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
