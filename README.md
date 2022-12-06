@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeRpHiE
 - 👀 I’m mostly interested in Java.
 - 🌱 I’m currently learning Java Spring Boot.
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on Java, Spring boot, NodeJs and ReactJs.
 - 📫 How to reach me :
 e-mail : asiri.abayakoon@gmail.com
 LinkedIn : https://www.linkedin.com/in/asiri-abayakoon-888b601a/
